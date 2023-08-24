@@ -1,6 +1,5 @@
 package com.automobil.co;
 
-import com.automobil.co.AutomobileApplicationApp;
 import com.automobil.co.config.AsyncSyncConfiguration;
 import com.automobil.co.config.EmbeddedElasticsearch;
 import com.automobil.co.config.EmbeddedSQL;

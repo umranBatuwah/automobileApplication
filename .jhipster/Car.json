@@ -1,0 +1,29 @@
+{
+  "changelogDate": "20230823104455",
+  "clientRootFolder": "automobileApplication",
+  "databaseType": "sql",
+  "dto": "no",
+  "entityTableName": "car",
+  "fields": [
+    {
+      "fieldName": "carName",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "numberOfCar",
+      "fieldType": "Integer"
+    },
+    {
+      "fieldName": "carMadeBy",
+      "fieldType": "String"
+    }
+  ],
+  "jpaMetamodelFiltering": false,
+  "microserviceName": "automobileApplication",
+  "name": "Car",
+  "pagination": "no",
+  "readOnly": false,
+  "relationships": [],
+  "searchEngine": "no",
+  "service": "serviceImpl"
+}
