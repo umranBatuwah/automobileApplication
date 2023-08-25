@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.12.1">
+<file name="D:\mycode\awswork\automobileApplication\pom.xml">
+</file>
+<file name="D:\mycode\awswork\automobileApplication\README.md">
+</file>
+<file name="D:\mycode\awswork\automobileApplication\src\main\resources\i18n\messages.properties">
+</file>
+<file name="D:\mycode\awswork\automobileApplication\src\main\resources\i18n\messages_en.properties">
+</file>
+<file name="D:\mycode\awswork\automobileApplication\src\main\resources\i18n\messages_fr.properties">
+</file>
+<file name="D:\mycode\awswork\automobileApplication\src\test\resources\junit-platform.properties">
+</file>
+</checkstyle>

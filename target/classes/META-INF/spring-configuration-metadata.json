@@ -1,0 +1,11 @@
+{
+  "groups": [
+    {
+      "name": "application",
+      "type": "com.automobil.co.config.ApplicationProperties",
+      "sourceType": "com.automobil.co.config.ApplicationProperties"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}
